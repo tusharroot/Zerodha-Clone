@@ -32,7 +32,7 @@ function Signup() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    window.location.href = 'http://localhost:3000';
+    window.location.href = 'https://zerodha-clone-7nts.onrender.com';
     // You can integrate API call here
   };
   return (

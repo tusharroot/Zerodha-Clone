@@ -7,7 +7,7 @@ function NavBar() {
       <div class="container p-2">
         <Link class="navbar-brand" to="/">
           <img
-            src="public/Media/images/logo.svg"
+            src="/Media/images/logo.svg"
             style={{ width: "30%" }}
             alt="logo"
           />
